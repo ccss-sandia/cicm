@@ -1,0 +1,25 @@
+<outages>
+	<outage>
+		<component>T4</component>
+		<loadShed>
+			<component>L2</component>
+			<percentshed>10</percentshed>
+		</loadShed>
+		<loadShed>
+			<component>L3</component>
+			<percentshed>10</percentshed>
+		</loadShed>
+		<loadShed>
+			<component>L4</component>
+			<percentshed>10</percentshed>
+		</loadShed>
+		<loadShed>
+			<component>L6</component>
+			<percentshed>10</percentshed>
+		</loadShed>
+		<loadShed>
+			<component>L7</component>
+			<percentshed>10</percentshed>
+		</loadShed>
+	</outage>
+</outages>
